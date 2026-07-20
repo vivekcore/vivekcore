@@ -20,11 +20,11 @@ Building scalable backend systems, real-time collaborative applications, and bro
 
 ## 🚀 About Me
 
-- 🎓 Second-year Computer Science student
+- 🎓 Third-year Computer Science student
 - 🌱 **Currently learning:** Distributed Systems, Redis, System Design, Kubernetes
 - 💻 **Currently building:** Real-time collaborative apps, backend APIs, browser automation tools
 - 🤖 **Exploring:** Playwright, intelligent browser agents, workflow automation
-- 🎯 **Looking for:** Backend Internship • Open Source • Collaborations
+- 🎯 **Looking for:** • Open Source • Collaborations
 - ⚡ **Fun fact:** I enjoy understanding how software works beneath the abstraction—from TCP packets to distributed systems.
 - 📫 **Email:** `vivek.inz8@gmail.com`
 
@@ -99,28 +99,9 @@ Building scalable backend systems, real-time collaborative applications, and bro
 # 📈 GitHub Activity
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vivekcore&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekcore&layout=compact&theme=transparent&hide_border=true"/>
-</p>
-
-<p align="center">
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vivekcore&theme=github-compact&hide_border=true"/>
 </p>
 
----
-
-## ⚙️ Currently Exploring
-
-- Distributed Systems
-- Redis Pub/Sub
-- WebSocket Scaling
-- Browser Automation
-- AI Browser Agents
-- BullMQ Workers
-- System Design
-
----
 
 <div align="center">
 

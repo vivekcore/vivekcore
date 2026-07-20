@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.gif" alt="Vivek's profile banner" width="100%" />
+<img src="./banner.png" alt="Vivek's profile banner" width="100%" />
 
 # Hi 👋, I'm Vivek
 

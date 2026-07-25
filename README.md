@@ -20,13 +20,13 @@ Building scalable backend systems, real-time collaborative applications, and bro
 
 ## 🚀 About Me
 
-- 🎓 Third-year Computer Science student
+🎓 Third-year Computer Science student
+
 - 🌱 **Currently learning:** Distributed Systems, Redis, System Design, Kubernetes
-- 💻 **Currently building:** Real-time collaborative apps, backend APIs, browser automation tools
-- 🤖 **Exploring:** Playwright, intelligent browser agents, workflow automation
-- 🎯 **Looking for:** • Open Source • Collaborations
-- ⚡ **Fun fact:** I enjoy understanding how software works beneath the abstraction—from TCP packets to distributed systems.
-- 📫 **Email:** `vivek.inz8@gmail.com`
+- 💻 **Currently building:** Real-time collaborative applications, scalable backend APIs
+- 🚀 **Interested in:** Backend Engineering, Distributed Systems, Cloud Infrastructure
+- 🎯 **Looking for:** Open Source • Collaborations
+- ⚙️ **Also learning:** CI/CD pipelines, Docker, and deployment workflows
 
 ---
 

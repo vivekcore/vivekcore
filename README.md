@@ -24,6 +24,7 @@ Building scalable backend systems, real-time collaborative applications, and bro
 
 - 🌱 **Currently learning:** Distributed Systems, Redis, System Design, Kubernetes
 - 💻 **Currently building:** Real-time collaborative applications, scalable backend APIs
+- 🔐 **Auth toolkit:** Better Auth (OAuth flows, session management) and Clerk
 - 🚀 **Interested in:** Backend Engineering, Distributed Systems, Cloud Infrastructure
 - 🎯 **Looking for:** Open Source • Collaborations
 - ⚙️ **Also learning:** CI/CD pipelines, Docker, and deployment workflows
@@ -36,11 +37,9 @@ Building scalable backend systems, real-time collaborative applications, and bro
   <a href="https://www.linkedin.com/in/vivek-kumar-7a8001377/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
   <a href="https://x.com/vivek_z9">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-
   <a href="mailto:vivek.inz8@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -51,32 +50,32 @@ Building scalable backend systems, real-time collaborative applications, and bro
 # 🛠 Tech Stack
 
 ### Languages
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 ### Frontend
-
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
 ### Backend
-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square)
 ![BullMQ](https://img.shields.io/badge/BullMQ-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
+
+### Authentication
+![Better Auth](https://img.shields.io/badge/Better_Auth-000000?style=flat-square)
+![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square)
 
 ### Databases & ORM
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
 ### DevOps & Cloud
-
 ![AWS](https://img.shields.io/badge/AWS_EC2-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
@@ -90,9 +89,9 @@ Building scalable backend systems, real-time collaborative applications, and bro
 
 | Project | Tech | Description |
 |----------|------|-------------|
-| **[Stashly](https://github.com/vivekcore/stashly)** | React • Node • MongoDB • TS | Link & note manager with authentication |
+| **[Stashly](https://github.com/vivekcore/stashly)** | React • Node • MongoDB • TS • Better Auth | Link & note manager with OAuth authentication |
 | **[Excalidraw Lite](https://github.com/vivekcore/excalidraw-lite)** | Next.js • WebSockets • PostgreSQL • Prisma | Real-time collaborative whiteboard |
-| **[Auction House](https://github.com/vivekcore/Auction_House)** | MERN • TypeScript | Escrow-based auction platform with automatic bid expiry |
+| **[Auction House](https://github.com/vivekcore/Auction_House)** | MERN • TypeScript • Better Auth | Escrow-based auction platform with automatic bid expiry |
 
 ---
 
@@ -101,7 +100,6 @@ Building scalable backend systems, real-time collaborative applications, and bro
 <p align="center">
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vivekcore&theme=github-compact&hide_border=true"/>
 </p>
-
 
 <div align="center">
 

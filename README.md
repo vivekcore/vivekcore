@@ -93,6 +93,7 @@ Building scalable backend systems, real-time collaborative applications, and bro
 | **[Stashly](https://github.com/vivekcore/stashly)** | React • Node • MongoDB • TS • Better Auth | Link & note manager with OAuth authentication |
 | **[Excalidraw Lite](https://github.com/vivekcore/excalidraw-lite)** | Next.js • WebSockets • PostgreSQL • Prisma | Real-time collaborative whiteboard |
 | **[Auction House](https://github.com/vivekcore/Auction_House)** | MERN • TypeScript • Better Auth | Escrow-based auction platform with automatic bid expiry |
+| **[Convo Chatbot](https://github.com/vivekcore/convo-chatbot)** | Redis • WebSockets • Prisma • BullMQ • Groq LLM | Real-time conversational chatbot built as a monorepo |
 
 ---
 

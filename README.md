@@ -55,15 +55,3 @@ Building scalable backend systems, real-time collaborative applications, and bro
 | **[Convo Chatbot](https://github.com/vivekcore/convo-chatbot)** | Redis • WebSockets • Prisma • BullMQ • Groq LLM | Real-time conversational chatbot built as a monorepo |
 
 ---
-
-# 📈 GitHub Activity
-
-<p align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vivekcore&theme=github-compact&hide_border=true"/>
-</p>
-
-<div align="center">
-
-> *"Always curious about how systems work beneath the abstraction."*
-
-</div>

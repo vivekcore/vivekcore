@@ -20,7 +20,7 @@ Building scalable backend systems, real-time collaborative applications, and bro
 
 ## 🚀 About Me
 
-🎓 Third-year Computer Science student
+🎓 Computer Science student
 
 - 🌱 **Currently learning:** Distributed Systems, Redis, System Design, Kubernetes
 - 💻 **Currently building:** Real-time collaborative applications, scalable backend APIs

@@ -2,7 +2,7 @@
 
 <img src="./banner.gif" alt="Vivek's profile banner" width="100%" />
 
-# Hi 👋, I'm Vivek
+# Hi, I'm Vivek
 
 ### Full-stack Developer
 
